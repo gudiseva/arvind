@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T17:15:21.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ANtye_HDaOHXRdAl0l9L" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T17:34:07.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="2Mgtjc7imDyXcoeO7-FJ" version="14.8.6" type="github">
   <diagram id="AOH3FdyHrTaQSTsw-J5O" name="Page-1">
     <mxGraphModel dx="1328" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -70,6 +70,9 @@
         </mxCell>
         <mxCell id="XCENTKjAxL6JyHPaJ2M--17" value="Validate processing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="580" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XCENTKjAxL6JyHPaJ2M--18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_4_green-128.png" vertex="1" parent="1">
+          <mxGeometry x="950" y="30" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
