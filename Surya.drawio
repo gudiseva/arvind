@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T13:07:41.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="MJdfd0znec2SmeJbgaq5" version="15.8.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-11-19T13:12:54.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="r6478yACM9KwG4jzfWS-" version="15.8.2" type="github" pages="10">
   <diagram id="_HbTJziGMP2dEaYZIe5g" name="GF_Foyer">
     <mxGraphModel dx="1328" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -183,8 +183,8 @@
         <mxCell id="UbTF850GpMJDYXUgsntU-0" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=none;direction=south;fontSize=16;fontColor=#0000FF;" parent="wNYMAwOvkM_-kje4L7jW-1" vertex="1">
           <mxGeometry x="620" y="150" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="auMI3n5_b6x10tPmwXQV-0" value="Guest Toilet" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontColor=#0000FF;" parent="wNYMAwOvkM_-kje4L7jW-1" vertex="1">
-          <mxGeometry x="520" y="485" width="100" height="20" as="geometry" />
+        <mxCell id="auMI3n5_b6x10tPmwXQV-0" value="Guest&lt;br&gt;Toilet" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontColor=#0000FF;" parent="wNYMAwOvkM_-kje4L7jW-1" vertex="1">
+          <mxGeometry x="540" y="475" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t80wC0d6FFSHC8Ykvkd--0" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;direction=south;fontSize=16;fontColor=#0000FF;" parent="wNYMAwOvkM_-kje4L7jW-1" vertex="1">
           <mxGeometry x="620" y="140" width="10" height="30" as="geometry" />
