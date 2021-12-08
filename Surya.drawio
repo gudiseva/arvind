@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T09:48:33.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="jAQ2WCa62NhpHecEORax" version="15.8.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-12-08T10:43:39.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="NTQfVD8CwUiHvxv13Tbe" version="15.8.3" type="github" pages="12">
   <diagram id="_HbTJziGMP2dEaYZIe5g" name="GF_Foyer">
     <mxGraphModel dx="1328" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -474,14 +474,20 @@
         <mxCell id="2bdefNUMsqdEBEZIwUfu-7" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Guest Room&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="a_tkvtDL4GGny5JMpTKL-1">
           <mxGeometry x="350" y="310" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2bdefNUMsqdEBEZIwUfu-8" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Guest Toilet&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="a_tkvtDL4GGny5JMpTKL-1">
-          <mxGeometry x="560" y="220" width="100" height="20" as="geometry" />
+        <mxCell id="2bdefNUMsqdEBEZIwUfu-8" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Guest Toilet&lt;br&gt;5 x 4&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="a_tkvtDL4GGny5JMpTKL-1">
+          <mxGeometry x="735" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dimID8dai6w4Y67-c70a-0" value="Remove OTS" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontColor=#FF0000;rotation=-90;" vertex="1" parent="a_tkvtDL4GGny5JMpTKL-1">
           <mxGeometry x="410" y="330" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F9S8kd2RJsjXHINHuDcl-0" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#FF0000;fontSize=14;fontColor=#0000FF;strokeColor=#000000;" vertex="1" parent="a_tkvtDL4GGny5JMpTKL-1">
           <mxGeometry x="640" y="450" width="100" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="mFLSZaHvN_buOGZmbVf2-0" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;direction=south;fontSize=16;fontColor=#0000FF;strokeColor=#000000;" vertex="1" parent="a_tkvtDL4GGny5JMpTKL-1">
+          <mxGeometry x="605" y="150" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mFLSZaHvN_buOGZmbVf2-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#FF0000;direction=south;fontSize=16;fontColor=#0000FF;strokeColor=#000000;" vertex="1" parent="a_tkvtDL4GGny5JMpTKL-1">
+          <mxGeometry x="550" y="150" width="10" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -505,6 +511,12 @@
         </mxCell>
         <mxCell id="Z4YrDBEJQ0j8tM0QuUPJ-0" value="&lt;font color=&quot;#ff0000&quot;&gt;Remove Double Height&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontColor=#0000FF;rotation=-90;" vertex="1" parent="7wf-4jEmFRgMEQXjS_Ww-1">
           <mxGeometry x="350" y="375" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NbZOrOle4hTig4wE6kKp-0" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;direction=south;fontSize=16;fontColor=#0000FF;strokeColor=#000000;" vertex="1" parent="7wf-4jEmFRgMEQXjS_Ww-1">
+          <mxGeometry x="600" y="420" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="NbZOrOle4hTig4wE6kKp-1" value="Cupboard" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;fontColor=#0000FF;rotation=-90;" vertex="1" parent="7wf-4jEmFRgMEQXjS_Ww-1">
+          <mxGeometry x="540" y="510" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
