@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T13:03:54.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="71ABOw0QxpI7aad-gHJb" version="16.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-15T13:11:32.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ft_ZOEbYZxmxYlSlAZ6p" version="16.2.7" type="github" pages="3">
   <diagram id="STCU5Q5QwM34BlkwL930" name="1f_extend_living">
     <mxGraphModel dx="1328" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -133,6 +133,9 @@
         </mxCell>
         <mxCell id="psEKXr4wqUWRxUKoMj-U-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" vertex="1" parent="psEKXr4wqUWRxUKoMj-U-1">
           <mxGeometry x="390" y="358" width="30" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="ezyLAw4ELKqUOb80qXFb-0" value="Note: WC to face North" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=default;rotation=-90;" vertex="1" parent="psEKXr4wqUWRxUKoMj-U-1">
+          <mxGeometry x="278.5" y="510" width="151.5" height="75.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
