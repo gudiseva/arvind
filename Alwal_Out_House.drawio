@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T00:48:26.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="AuV4byF229trr8_ROaD4" version="16.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-15T01:12:28.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="qhMQObc-1hSRcGL-fqTH" version="16.5.6" type="github" pages="3">
   <diagram id="wP_e8TRZH72XtvRX7vjT" name="Out House">
     <mxGraphModel dx="1328" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -446,8 +446,8 @@
         <mxCell id="XUfTDPAJlBs8Hd5m5_3I-38" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.range_1;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="XUfTDPAJlBs8Hd5m5_3I-1">
           <mxGeometry x="640" y="465.5" width="20" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="XUfTDPAJlBs8Hd5m5_3I-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.shower;fillColor=#FFFFFF;" vertex="1" parent="XUfTDPAJlBs8Hd5m5_3I-1">
-          <mxGeometry x="850" y="210" width="50" height="60" as="geometry" />
+        <mxCell id="XUfTDPAJlBs8Hd5m5_3I-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.shower;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="XUfTDPAJlBs8Hd5m5_3I-1">
+          <mxGeometry x="840" y="235" width="51.18" height="55" as="geometry" />
         </mxCell>
         <mxCell id="XUfTDPAJlBs8Hd5m5_3I-40" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="XUfTDPAJlBs8Hd5m5_3I-1">
           <mxGeometry x="835" y="325" width="40" height="43" as="geometry" />
@@ -465,7 +465,7 @@
           <mxGeometry x="640" y="280" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XUfTDPAJlBs8Hd5m5_3I-45" value="Toilet" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="XUfTDPAJlBs8Hd5m5_3I-1">
-          <mxGeometry x="845" y="270" width="40" height="20" as="geometry" />
+          <mxGeometry x="845" y="255" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XUfTDPAJlBs8Hd5m5_3I-46" value="Office Room" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="XUfTDPAJlBs8Hd5m5_3I-1">
           <mxGeometry x="815" y="360" width="80" height="20" as="geometry" />
