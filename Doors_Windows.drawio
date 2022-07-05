@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T14:43:00.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HwB8EU_PO2LHgLKJrDKz" version="16.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-05T16:35:54.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DcfaEpBoS0thnZrodwfF" version="16.6.2" type="github" pages="2">
   <diagram id="2RyU8XgS3Ou342YZrbgs" name="GF Doors">
     <mxGraphModel dx="1328" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="nWWzbQOdUr0jvvoibdB6-7" value="7&#39;-0&quot;" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=right;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="84" width="40" height="286" as="geometry" />
         </mxCell>
-        <mxCell id="nWWzbQOdUr0jvvoibdB6-8" value="Kitchen &amp;amp;&lt;br&gt;Bedroom Door&lt;br&gt;(3)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="nWWzbQOdUr0jvvoibdB6-8" value="Kitchen &amp;amp;&lt;br&gt;Bedroom Door&lt;br&gt;(4)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="155" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nWWzbQOdUr0jvvoibdB6-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;gradientColor=none;shadow=1;sketch=1;" vertex="1" parent="1">
@@ -63,6 +63,18 @@
         </mxCell>
         <mxCell id="nWWzbQOdUr0jvvoibdB6-20" value="Utility&lt;br&gt;Door&lt;br&gt;(1)&lt;br&gt;&lt;br&gt;(With Threshold)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="925" y="490" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rlCFzOxSuP8gtzggjr1b-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;gradientColor=none;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="434" width="160" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="rlCFzOxSuP8gtzggjr1b-2" value="3&#39;-6&quot;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-8;labelBackgroundColor=#ffffff" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rlCFzOxSuP8gtzggjr1b-3" value="7&#39;-0&quot;" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=right;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="434" width="40" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="rlCFzOxSuP8gtzggjr1b-4" value="East&lt;br&gt;Main Door&lt;br&gt;(1)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="505" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
