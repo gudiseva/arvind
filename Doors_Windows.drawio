@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T05:01:54.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tV6_toyhVp3P1nulcCyW" version="16.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-06T06:36:54.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ObwD2VkB6Va74yWxe4vl" version="16.6.2" type="github" pages="4">
   <diagram id="2RyU8XgS3Ou342YZrbgs" name="GF Doors">
     <mxGraphModel dx="1328" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="rlCFzOxSuP8gtzggjr1b-4" value="East&lt;br&gt;Main Door&lt;br&gt;(1)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="505" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NLDKZnEfO1CXAutcAMPe-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Ground Floor Doors&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -237,6 +240,9 @@
         <mxCell id="9AlaRydBbtmJNh-A9zOE-39" value="Dining Room Window&lt;br&gt;(1)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;sketch=0;" parent="9AlaRydBbtmJNh-A9zOE-1" vertex="1">
           <mxGeometry x="900" y="490" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="p8kourZHBG0o0vgGwDE7-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Ground Floor Windows&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9AlaRydBbtmJNh-A9zOE-1">
+          <mxGeometry x="245" y="290" width="270" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -328,6 +334,9 @@
         </mxCell>
         <mxCell id="KFG30fFJeh1CJ3Llj5D_-11" value="&lt;span style=&quot;text-align: right&quot;&gt;7&#39;-0&quot;&lt;/span&gt;" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=left;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
           <mxGeometry x="300" y="437" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="23dM0ZZVIpBoO8JEnd6C-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;First Floor Doors&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="640" y="434" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -477,6 +486,9 @@
         </mxCell>
         <mxCell id="Ns9-WAItXIsqKmFCIwGU-4" value="Pantry&lt;br&gt;Window&lt;br&gt;(1)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;sketch=0;" vertex="1" parent="OFNMcEJYiXS3lAP5JqhZ-1">
           <mxGeometry x="325" y="319.5" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t1mgYi8pkN9Bbr7YUoXc-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;First Floor Windows&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OFNMcEJYiXS3lAP5JqhZ-1">
+          <mxGeometry x="510" y="340" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
