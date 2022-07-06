@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T16:35:54.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DcfaEpBoS0thnZrodwfF" version="16.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-06T03:05:14.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DA23NMCwEms9SLCODCJk" version="16.6.2" type="github" pages="3">
   <diagram id="2RyU8XgS3Ou342YZrbgs" name="GF Doors">
     <mxGraphModel dx="1328" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -209,6 +209,98 @@
         </mxCell>
         <mxCell id="gt81WQ3WdtitppwRMV2t-3" value="Staircase&lt;br&gt;Ventilator&lt;br&gt;(1)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;sketch=0;" vertex="1" parent="9AlaRydBbtmJNh-A9zOE-1">
           <mxGeometry x="790" y="254.5" width="70" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="FF Doors" id="qHoBvrO0I5i16xwbiQJJ">
+    <mxGraphModel dx="1328" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="npET57eNlUMaQd7IfBoy-0" />
+        <mxCell id="npET57eNlUMaQd7IfBoy-1" parent="npET57eNlUMaQd7IfBoy-0" />
+        <mxCell id="KFG30fFJeh1CJ3Llj5D_-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;gradientColor=none;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="420" y="434" width="90" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;gradientColor=none;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="350" y="434" width="90" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="KFG30fFJeh1CJ3Llj5D_-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;gradientColor=none;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="500" y="434" width="70" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;gradientColor=none;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="70" y="84" width="160" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-3" value="3&#39;-6&quot;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-8;labelBackgroundColor=#ffffff" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="80" y="50" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-4" value="7&#39;-0&quot;" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=right;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="240" y="84" width="40" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-5" value="North&lt;br&gt;Main Door&lt;br&gt;(1)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="115" y="155" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;gradientColor=none;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="350" y="84" width="160" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-7" value="3&#39;-6&quot;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-8;labelBackgroundColor=#ffffff" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="360" y="50" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-8" value="7&#39;-0&quot;" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=right;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="520" y="84" width="40" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-9" value="Pooja Door&lt;br&gt;(1)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="390" y="165" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;gradientColor=none;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="640" y="84" width="130" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-11" value="3&#39;-0&quot;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-8;labelBackgroundColor=#ffffff" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="650" y="50" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-12" value="7&#39;-0&quot;" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=right;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="780" y="84" width="40" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-13" value="Home Theatre,&lt;br&gt;Staircase &amp;amp;&lt;br&gt;Bedroom Door&lt;br&gt;(5)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="655" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;gradientColor=none;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="920" y="84" width="110" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-15" value="2&#39;-6&quot;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-8;labelBackgroundColor=#ffffff" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="930" y="50" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-16" value="7&#39;-0&quot;" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=right;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="1040" y="84" width="40" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-17" value="Bathroom&lt;br&gt;Door&lt;br&gt;(3)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="940" y="155" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;gradientColor=none;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="920" y="434" width="110" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-19" value="2&#39;-6&quot;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-8;labelBackgroundColor=#ffffff" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="930" y="400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-20" value="7&#39;-0&quot;" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=right;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="1040" y="434" width="40" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-21" value="Utility&lt;br&gt;Door&lt;br&gt;(1)&lt;br&gt;&lt;br&gt;(With Threshold)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="925" y="490" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-23" value="3&#39;-6&quot;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-8;labelBackgroundColor=#ffffff" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="360" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="npET57eNlUMaQd7IfBoy-25" value="Balcony&amp;nbsp;Door&lt;br&gt;(1)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;sketch=1;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="350" y="527" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KFG30fFJeh1CJ3Llj5D_-3" value="5&#39;-0&quot;" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=right;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="580" y="437" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KFG30fFJeh1CJ3Llj5D_-10" value="1&#39;-6&quot;" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-8;labelBackgroundColor=#ffffff" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="510" y="400" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFG30fFJeh1CJ3Llj5D_-11" value="&lt;span style=&quot;text-align: right&quot;&gt;7&#39;-0&quot;&lt;/span&gt;" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=left;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff" vertex="1" parent="npET57eNlUMaQd7IfBoy-1">
+          <mxGeometry x="300" y="437" width="40" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
