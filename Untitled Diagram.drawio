@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T18:09:07.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eiVofstykSQedQYgEfld" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-13T18:12:26.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sMh1T9xBAtFL5klOrnBn" version="20.5.1" type="github">
   <diagram id="mfn-7NLoDIK0zkN27Hqa" name="Page-1">
     <mxGraphModel dx="1328" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="is3-xZG5N_h4ApIcxUbN-16" value="Earth" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="615" width="120" height="60" as="geometry" />
+          <mxGeometry x="985" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="is3-xZG5N_h4ApIcxUbN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.011;exitY=0.627;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="is3-xZG5N_h4ApIcxUbN-17">
           <mxGeometry relative="1" as="geometry">
@@ -141,11 +141,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="is3-xZG5N_h4ApIcxUbN-20" value="Municipal Water Line" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="261.25" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="690" width="211.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="is3-xZG5N_h4ApIcxUbN-21" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="is3-xZG5N_h4ApIcxUbN-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="710" as="sourcePoint" />
+            <mxPoint x="320" y="690" as="sourcePoint" />
             <mxPoint x="330" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -158,6 +158,9 @@
               <mxPoint x="120" y="521" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="is3-xZG5N_h4ApIcxUbN-30" value="&lt;h1&gt;Plot #28&lt;/h1&gt;&lt;p&gt;Inlet Water Connection Diagram&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
